@@ -1,5 +1,12 @@
 ###----- Version 0.5 -------###
 Add: 
+	- Jade forest level
+	- Trainer battles
+	- Second move
+	- Upgrade graphics
+	
+###----- Version 0.5 -------###
+Add: 
 	- ambiant musics
 	- Viridian map's graphics
 	- Pokemon move system
