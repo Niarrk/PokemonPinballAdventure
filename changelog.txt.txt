@@ -1,3 +1,10 @@
+###----- Version 0.7 -------###
+Add: 
+	- Add special level jade forest
+	- Add pewter city
+	- Joystick control
+	- Change center menu
+	- Upgrade graphics
 ###----- Version 0.5 -------###
 Add: 
 	- Jade forest level
